@@ -26,4 +26,4 @@ By [Nadieh Bremer](http://visualcinnamon.com/)
   - Sketches on paper first, then design with actual data
 - Is progressive enhancement an option?
   - Work: support for IE8, thus required
-  - Personal: don't care :-D
+  - Personal: don't care 😄
