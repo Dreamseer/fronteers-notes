@@ -1,0 +1,83 @@
+# Progressive Enhancement and CSS
+
+- bitsofco.de
+- What is it?
+  - 2003: Graceful degredation
+    - Designer don't test more than a version back
+	- Expensive to retrofit to new alternate devices
+	- does not address different needs of different audiences
+  - Progressive Enhancement
+    - web design must mature
+	- must accept development of the past years
+	- goal of web design is not to dazzle, but to deliver information to widest audience
+- What does that mean in practice?
+  - semantic markup for all content
+  - correct elements in correct order
+  - content in plain text, most accessible, best for PE
+  - enhanced layout by CSS
+    - CSS = enhancement, not requirement
+  - enhanced behavior by JS
+    - JS = enhancement, not requirement
+  - end-user prefs should be respected
+    - do not use `user-scalable=no` and stuff
+- Why important today?
+  - many more browsers and versions
+  - many more new technologies
+  - many more people online, thus more different user needs
+- The Web is still open!
+- PE and JS
+  - What can go wrong?
+    - maybe not enabled (like in Opera Mini)
+	- browser does not support certain features
+  - JS should be an enhancement, key functionality should work w/o JS
+  - load polyfills if needed
+- What can go wrong with HTML?
+  - if browser does not understand a new element, it sees DIVs
+  - add ARIA roles like `role="main"`
+- What about CSS?
+  - if browser does not support a preoperty or value, nothing happens
+  - no built-in fallbacks in CSS
+- Start with sensible HTML
+- M&Ms: core is HTML, everything else is extra layer
+- take advantage of cascade
+  - use legacy code first
+  - i.e. vendor prefixes above unprefixed version
+- go mobile first
+  - `min-width` > `max-width`
+  - sth. that looks good on mobile looks a lot more usable on desktop
+- use Flexbox
+  - designed to be a PE
+  - use it on your production sites
+- last resort: use different stylesheets
+  - i.e. for old IE
+  - example: BBC “cutting the mustard”
+- use CSS feature queries
+  - `@supports (property: value) { … }`
+  - detects all or either of several features, too
+  - `@supports not (property: value) { … }` works, too
+  - support quite good (no IE, no Opera Mini)
+- good example: `object-fit`
+  - use feature queries
+  - *and* use advantage of cascade
+- 2016:
+  - VR + watches in the game
+  - new technologies (Angular 23 :-))
+  - more people online with different hardware
+
+Thus:
+> Leave no one behind!
+
+## QA
+
+- How far back should you go with support for older devices and stuff?
+  - difficult, different for everyone
+  - Opera Mini used in some regions, different baseline
+  - look at your audience
+- Problem: Industry overlooks Opera Mini?
+  - people should be more aware of their user base and browser usage
+  - if you're lucky, use more advanced features
+- PE = challenges for designers and developers, do designers have to take care of it?
+  - designers have to take it into account
+- What is the biz case for PE?
+  - again it's about user base
+  - if you use PE, it's a faster, better experience for everyone
