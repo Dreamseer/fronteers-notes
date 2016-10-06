@@ -1,5 +1,7 @@
 # Big Data, Big Impact
 
+By Lodewijk Nauta
+
 - KPMG collected data from their employees (FitBit, GPS, Exchange)
   - Measuring company health
   - Anonymized data

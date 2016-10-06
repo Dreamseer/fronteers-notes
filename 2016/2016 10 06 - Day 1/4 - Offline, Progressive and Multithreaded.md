@@ -1,6 +1,7 @@
 # Offline, Progressive and Multithreaded: A peek at the web apps of the future
 
-@nolanlawson => Slides linked on Twitter
+By [Nolan Lawson](http://nolanlawson.com/)  
+[@nolanlawson](https://twitter.com/nolanlawson) (slides linked on Twitter)
 
 ## PWA = latest buzzword
 

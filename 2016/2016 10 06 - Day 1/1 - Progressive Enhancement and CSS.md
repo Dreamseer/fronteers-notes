@@ -1,6 +1,8 @@
 # Progressive Enhancement and CSS
 
-[bitsofco.de](http://bitsofco.de/)
+By [Ire Aderinokun](http://ireaderinokun.com)  
+[bitsofco.de](https://bitsofco.de/)  
+[@ireaderinokun](https://twitter.com/ireaderinokun)
 
 ## What is it?
 
