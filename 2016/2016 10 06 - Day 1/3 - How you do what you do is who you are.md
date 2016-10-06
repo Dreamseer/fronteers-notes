@@ -12,7 +12,7 @@ By [Scott Olson](https://paper.fiftythree.com/scott)
   - Express
   - Webpack
   - Babel
-  - Coffescript -> ES6 -> Typescript
+  - Coffescript ➡️ ES6 ➡️ Typescript
   - Stylus + Nib + inline styles in components (test-wise)
   - CSS Modules
 - **React all the things**: ~450 kB bundled code
