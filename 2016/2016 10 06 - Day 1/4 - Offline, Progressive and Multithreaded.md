@@ -11,6 +11,7 @@ By [Nolan Lawson](http://nolanlawson.com/)
 - PWAs win over Native due to “Progressive”
 
 ### Offline
+
 - pouchDB, localForage are great IndexedDB wrappers
 - Offline-first
   - Not really about actual offline state

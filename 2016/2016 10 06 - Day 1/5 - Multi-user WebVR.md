@@ -21,7 +21,7 @@ Great VR app: **Tilt Brush**
 ## WebVR to the rescue
 
 - Google, Mozilla, Microsoft, Samsung and more work on the spec
-- VR Demo Time
+- *VR Demo Time*
 
 ## What do we need?
 
