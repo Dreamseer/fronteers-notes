@@ -19,11 +19,11 @@ By [Scott Olson](https://paper.fiftythree.com/scott)
 
 ### Image preloading
 
-- Baseline JPG or 404 image = no great UX
+- Baseline JPG or 404 image = no great UX 🙅
 - Use React for loading image, broken image, final image using JS Image API
-- Transparent spacer images (WHAT?) for loading and better UX => no jank
+- Transparent spacer images (WHAT?) for loading and better UX ➡️ no jank
 - Use data URI for spacers = no add. request
-- Different aspect ratios = different spacers => embrace SVG in React
+- Different aspect ratios = different spacers ➡️ embrace SVG in React
 - Load images in defined orders, specifically important for Mobile
 
 ### Fluid text inputs
@@ -52,7 +52,7 @@ By [Scott Olson](https://paper.fiftythree.com/scott)
   - Redux store, graph store
   - Handling S3 errors
 
-@TODO: Either re-watch this part or re-use other people’s notes. :-(
+@TODO: Either re-watch this part or re-use other people’s notes. 😔
 
 ## QA
 

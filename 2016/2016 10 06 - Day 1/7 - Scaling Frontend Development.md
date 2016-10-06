@@ -8,7 +8,7 @@ By [Monika Piotrowicz](http://www.monikapiotrowicz.com)
 - HTML, CSS, JavaScript, gazillions of tools
 - Chaos?
   - inconsistent or buggy UI
-  - spaghetti code
+  - spaghetti code 🍝
   - hard to maintain or iterate
   - not accessible/performant/responsive
 
@@ -26,7 +26,7 @@ By [Monika Piotrowicz](http://www.monikapiotrowicz.com)
   - If hard to enforce, it might not be helpful
 - Burning code down is no option
 - Builds a culture of feedback and knowledge sharing
-  - Embrace pair programming!
+  - Embrace pair programming! 🙏🏼
 
 ### Pattern libraries
 
@@ -42,17 +42,17 @@ By [Monika Piotrowicz](http://www.monikapiotrowicz.com)
 - Shopify UI library
   - Reusable core patterns
   - Ask: What are actual patterns? How should it be built?
-  - Components => modules
+  - Components ➡️ modules
 - Solve problems once
 - More people can contribute
 - More time on most impactful features
 
 ## Summary
 
-- teach – build – review – repeat
+- teach – build – review 🔁
 - Building a culture
 - Leverage expectations, improve hiring
-- Have more conversations
+- Have more conversations 💬
   - Team talks
   - Talk about standards, common problems, share work from in and out of the day
   - Talk to designers (UX workshop) and backend devs (teach FE concepts)

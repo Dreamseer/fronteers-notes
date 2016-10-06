@@ -21,7 +21,7 @@ By Lodewijk Nauta
 - Demo: heat map video
 - Data Driven Customer Journey (for users/customers)
 
-*Wait… what? Didn’t get the use case for frontend development.* :-(
+*Wait… what? Didn’t get the use case for frontend development.* 😔
 
 ## QA
 

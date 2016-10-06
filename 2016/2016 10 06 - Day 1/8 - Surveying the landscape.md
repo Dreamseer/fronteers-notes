@@ -7,16 +7,16 @@ By [Peter Gasston](https://about.me/petergasston)
 
 ## Apps
 
-- new apps do not touch the web
-- app-only experiences
-- universal links on iOS
-- doorslams (Medium bad example)
+- New apps do not touch the web
+- App-only experiences
+- Universal links on iOS
+- Doorslams (Medium: very bad example)
 
 ## Advertising, tracking, ugh
 
-- acct. 54% of load
-- people block ads, 21% on Mobile due to privacy concerns
-- but no advertising = monetisation issues
+- Acct. 54% of load
+- People block ads, 21% on Mobile due to privacy concerns
+  - But no advertising = monetisation issues
 - 85 cents per dollar of ad go to FB/GOOG
 
 ## The Web now
@@ -39,10 +39,10 @@ By [Peter Gasston](https://about.me/petergasston)
 
 *But:*
 
-- shopping still works better on the Web
+- Shopping still works better on the Web
 - WeChat itself uses the Web
 - Flipkart took site down, 4% of users used app
-- PWA ftw
+- PWA ftw.
 
 *Thus:*
 
@@ -52,21 +52,21 @@ By [Peter Gasston](https://about.me/petergasston)
 
 ### Physical Web
 
-- nearby notifications
-  - bus station with upcoming buses
-- rich local discovery
+- Nearby notifications
+  - Bus station with upcoming buses
+- Rich local discovery
 - Web Bluetooth
 - WebVR, AR
 
 ### What is the Web like in 20 yrs?
 
-- are we still using browsers?
-- the Web is a user experience (@dries)
+- Are we still using browsers?
+- The Web is a user experience (@dries)
 
 ### Notifications
 
 - Web Notifications
-- rich experiences, why install app?
+- Rich experiences, why install app?
 
 - The Web enhances native
   - Messenger Web Views, no browser needed
@@ -75,4 +75,4 @@ By [Peter Gasston](https://about.me/petergasston)
 
 ### QA
 
-* performance is important (that's why AMP etc. exist)
+* Performance is important (that's why AMP etc. exist)

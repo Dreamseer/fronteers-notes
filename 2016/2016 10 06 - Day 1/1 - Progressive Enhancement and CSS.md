@@ -20,21 +20,21 @@ By [Ire Aderinokun](http://ireaderinokun.com)
 
 ## What does that mean in practice?
 
-- semantic markup for all content
-- correct elements in correct order
-- content in plain text, most accessible, best for PE
-- enhanced layout by CSS
+- Semantic markup for all content
+- Correct elements in correct order
+- Content in plain text, most accessible, best for PE
+- Enhanced layout by CSS
   - CSS = enhancement, not requirement
-- enhanced behavior by JS
+- Enhanced behavior by JS
   - JS = enhancement, not requirement
-- end-user prefs should be respected
-  - do not use `user-scalable=no` and stuff
+- End-user prefs should be respected
+  - Do not use `user-scalable=no` and stuff
 
 ## Why important today?
 
-- many more browsers and versions
-- many more new technologies
-- many more people online, thus more different user needs
+- Many more browsers and versions
+- Many more new technologies
+- Many more people online, thus more different user needs
 
 > The Web is still open!
 
@@ -81,7 +81,7 @@ By [Ire Aderinokun](http://ireaderinokun.com)
 ## 2016
 
 - VR + watches in the game
-- New technologies like Angular 23 :-)
+- New technologies like Angular 23 😄
 - More people online with different hardware
 
 Thus:
