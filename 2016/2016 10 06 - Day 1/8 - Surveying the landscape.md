@@ -3,7 +3,9 @@
 By [Peter Gasston](https://about.me/petergasston)  
 [@stopsatgreen](https://twitter.com/stopsatgreen)
 
-> 2010: The Web is dead - wtf?
+> 2010: The Web is dead
+
+WTF?
 
 ## Apps
 
@@ -21,7 +23,7 @@ By [Peter Gasston](https://about.me/petergasston)
 
 ## The Web now
 
-> Centralized website are the future (@evan)
+> Centralized websites are the future. (@evan)
 
 - 1995-2001: portals
 - 2002-2013: search
@@ -47,6 +49,8 @@ By [Peter Gasston](https://about.me/petergasston)
 *Thus:*
 
 > 2015: The Web isn't dead after all
+
+(Told you so…)
 
 ## The Future
 
