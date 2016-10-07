@@ -10,7 +10,7 @@
 - Desktop: HTML won, Mobile: Native (atm.)
 - PWAs win over Native due to “Progressive”
 
-### Offline
+## Offline
 
 - pouchDB, localForage are great IndexedDB wrappers
 - Offline-first
