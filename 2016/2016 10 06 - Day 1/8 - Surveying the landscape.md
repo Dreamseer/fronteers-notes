@@ -1,6 +1,6 @@
 # Surveying the Landscape
 
-By [Peter Gasston](https://about.me/petergasston)  
+🗣 [Peter Gasston](https://about.me/petergasston)  
 [@stopsatgreen](https://twitter.com/stopsatgreen)
 
 > 2010: The Web is dead

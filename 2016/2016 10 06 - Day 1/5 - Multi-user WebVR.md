@@ -1,6 +1,6 @@
 # Multi-user WebVR or: Wait, Who Are These People?
 
-By [Martin Splitt](http://geekonaut.de/)  
+🗣 [Martin Splitt](http://geekonaut.de/)  
 [@g33konaut](https://twitter.com/g33konaut)
 
 Great VR app: **Tilt Brush**

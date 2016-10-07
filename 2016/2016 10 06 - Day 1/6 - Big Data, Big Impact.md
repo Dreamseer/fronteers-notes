@@ -1,6 +1,6 @@
 # Big Data, Big Impact
 
-By Lodewijk Nauta
+🗣 Lodewijk Nauta
 
 ## KPMG Health
 

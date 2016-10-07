@@ -1,6 +1,6 @@
 # Scaling Frontend Development
 
-By [Monika Piotrowicz](http://www.monikapiotrowicz.com)  
+🗣 [Monika Piotrowicz](http://www.monikapiotrowicz.com)  
 [@monsika](https://twitter.com/monsika)
 
 ## FED at Shopify

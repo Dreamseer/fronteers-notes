@@ -1,6 +1,6 @@
 # How you do what you do is who you are
 
-By [Scott Olson](https://paper.fiftythree.com/scott)  
+🗣 [Scott Olson](https://paper.fiftythree.com/scott)  
 [@gscottolson](https://twitter.com/gscottolson)
 
 ## Using React to improve UX
