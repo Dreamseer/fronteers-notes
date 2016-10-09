@@ -3,57 +3,56 @@
 🗣 [Zell Liew](http://zellwk.com/)  
 [@zellwk](https://twitter.com/zellwk)
 
-## resp. components
+## Responsive components
 
-- we think about modularity
-  - question: not why, but how?
-  - communicate with team
+- We think about modularity
+  - Question: not why, but how?
+  - Communicate with team
 
-# scalability
+## Scalability
 
-- nobody thinks about it
-- parent comp: `rem`, child comp: `em`
-  - scales nice
-  - proportionally sized typography/images
-- how much do we need to scale?
-  - not to infinity (and beyond)
-  - proportional scaling upwards and downwards
-- design principles
-  - principle of repetition
-    - limit number of font-sizes (and repeat them)
-	- maybe we need just two button styles
-	- consistent whitespace (`line-height`, `margin`, vertical grid)
-- Demo: Mashable article teaser item
-- why `rem`?
-  - em = local var, rem = global var
-  - we think: local = good, global = bad, not in CSS
-  - **site in `em` of sth. is relative to `font-size`, otherwise use `rem`**
-  - good for vertical rhythm
+- Nobody thinks about it
+- Parent component uses `rem`, child component uses `em`
+  - Scales nice
+  - Proportionally sized typography/images
+- How much do we need to scale?
+  - Scale not to infinity (and beyond)
+  - Proportional scaling upwards and downwards
+- Design principle of repetition
+  - Limit number of font-sizes (and repeat them)
+  - Maybe we need only two button styles
+  - Consistent whitespace (`line-height`, `margin`, vertical rhythm)
+- *Demo: Mashable article teaser item*
+- Why `rem`?
+  - `em` = local var, `rem` = global var
+  - We think: local = good, global = bad, but not the case in CSS
+  - **Use `em` for anything that is relative to `font-size`, otherwise use `rem`**
+  - Good for vertical rhythm
 
-## breakpoints + scaling
+## Breakpoints + scaling
 
-- scaled full-width components may become smaller on larger screens in a grid
-- nested breakpoints
-- many media queries => *things get complicated*
-- duplication of styling
+- Scaled full-width components may become smaller on larger screens in a grid
+- Obvious solution: Nested breakpoints
+  - But: Many media queries, so *things get complicated*
+  - And: Duplication of styling
 
-## Meet Element Queries
+### Meet Element Queries
 
-- elms know about their size, you can style acc. on it
-- .comp, .comp[min-width: 600px] etc.
-  - not valid CSS (yet), you need JS to polyfill
-  - polyfill: support of PE is hard
-  - code gets still duplicated
+- Elements know about their size, you can style according to it
+- `.comp`, `.comp[min-width: 600px]` etc.
+  - Not valid CSS (yet), you need JS to polyfill
+  - Polyfill: support of progressive enhancement is hard
+  - Code gets still duplicated
 
-## Valid CSS alternatives
+### Valid CSS alternatives
 
-- use mixins to prevent code duplication
-  - style mixins for base, small, medium, large, …
+- Use mixins to prevent code duplication
+  - Style mixins for `base`, `small`, `medium`, `large`, etc.
 
 ## Summary
 
-- determine comp. area maps
-- determine breakpoints and changes in styles
-- determine units for CSS properties
-- handle complex variations with mixins or element queries
-- don't overengineer
+- Determine component area maps
+- Determine breakpoints and changes in styles
+- Determine units for CSS properties
+- Handle complex variations with mixins or element queries
+- **Don’t overengineer**

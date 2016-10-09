@@ -3,14 +3,19 @@
 🗣 [Jason Grigsby](http://blog.cloudfour.com/)  
 [@grigs](https://twitter.com/grigs)
 
+## A history lesson
+
 - In the beginning the Web was formless
-- 640x480 was the canvas, then 800x600, then 1024x768
+- Then 640x480 was the canvas, then 800x600, then 1024x768
 - Then Mobile came
 - Realization: the Web has no fixed canvas
 - In the past different frameworks for desktop and Mobile
-  - Why? diff. platfoms with diff. usability considerations
-## for truths about input
-### incompl. history
+  - Why? Different platfoms with different usability considerations!
+
+## Four truths about input
+
+### 1: Input is exploding
+
 - 1874: keyboard
 - 1984: mouse (+ GUI), cursor devices
 - 1996: scroll wheel
@@ -22,65 +27,101 @@
   - Remember Leap Motion?
 - Next: Pre-sensing touch
   - Hover is back!
-- => input is not slowing down
-## input is a continuum
-- hover, pointer events, keyboard
-- tablets, laptops, convertibles, 23" touch screens
-- you can not make assumptions on input based on screen size/form factor
-  - like hover on desktop vs. mobile
-  - like typing on desktop vs. mobile
-  - bad solution: detecting touch! (can be enabled by default on Chrome desktop)
-  - bad solution: detecting mouse or keyboard!
-  - saves us from ourselvers
+
+➡️  The last decade has seen everything from accelerometers to GPS to 3D touch. **Input is not slowing down!**
+
+### 2: Input is a continuum
+
+- Phones have keyboards and cursors; desktop computers have touchscreens
+- Hover, pointer events, keyboard events
+
 - Demo: Chromebook Pixel
-  - larger buttons using touch vs. small buttons using a mouse
+  - Larger buttons using touch vs. smaller buttons using a mouse
+
+### 3: Input is undetectable
+
+- Browser detection of touch‚ and nearly every other input type, is unreliable
+- You just cannot make assumptions on input based on screen size/form factor
+  - Like hover on desktop vs. mobile
+  - Like typing on desktop vs. mobile
+- Bad solution: detecting touch! (can be enabled by default on Chrome desktop)
+- Bad solution: detecting mouse or keyboard!
+- Save us from ourselves
+
+### 4: Input is transient
+
+- Knowing what input someone uses one moment tells you little about what will be used next
 - Input = Schrödinger's Cat
-  - you can detect it when it’s used
-  - input can be added or removed in seconds, you cannot rely on certain input method
+  - You can detect it when it’s used
+  - Input can be added or removed in seconds, so you cannot rely on certain input method
+
+## Input considerations
+
+### 1: Design for the largest target by default
+
 - Fitt’s Law
-  - larger controls
-  - touch: recommended size 10mm
-  - keyboard: recommended size 7mm
-- => design touch first (largest target use)
-- display density
-  - larger rows in Gmail
-  - couch mode in Vimeo
-  - => design for user need, not for input
+  - Use larger controls
+  - Touch: recommended size 10mm
+  - Keyboard/mouse: recommended size 7mm
+
+➡️ Design touch first (largest target use)
+
+### 2: Design for modes of interation instead of input
+
+- Consider display density
+  - Larger rows in Gmail
+  - Couch Mode in Vimeo
+
+➡️ Design for user need, not for input
+
+### 3: Make things accessible
+
 - D-pad controls (Nintendo controls, Apple Remote)
-  - support arrow key events
-  - undetectable, thus support arrow key nav
-- accessibility
-## 4: design for multiple concurrent input
-- mouse + keyboard
-- touch + trackpad (see Chromebook Pixel)
-- combine inputs for great UX
-## 5: abstract input
-- tap, click => point, select
-- incompatbilities: 2 sets of events (mouse, touch)
-- Pointer Events to the rescue
-  - Edge shipped, FF/Chrome in dev
+  - Support arrow key events
+  - Feature undetectable, thus support arrow key navigation by default
+
+➡️ Support accessibility features
+
+### 4: Design for multiple concurrent inputs
+
+- Mouse + keyboard
+- Touch + trackpad (see Chromebook Pixel)
+
+➡️ Combine inputs for great UX
+
+### 5: Abstract baseline input
+
+- Tap, click ➡️ point, select
+- Incompatbilities: 2 sets of events (mouse, touch)
+- Pointer Events to the rescue!
+  - Shipped in Edge, FF/Chrome in development
   - pep.js polyfill
-## 6: progressively enhance input
+
+➡️ Use Pointer Events
+
+### 6: Progressively enhance input
+
 - Use Geolocation
-  - But what abozt compass, gyroscope?
+  - But what about other sensors like compass, gyroscope? Try to use it!
 - Use Camera
-  - iOS: Scan credit card, works but you should test it
+  - Scan credit card on iOS, works but you should test it
     - Use AutoFill and new Payment Request API / Apple Pay o.t. Web
     - Consider testing AutoFill (QA)
   - Camera stream (i.e. for Photobooth)
 - Use speech recognition
-  - Works in Chrome and somehow in FF
+  - Works in Chrome and somehow in Firefox
 - Use the physical Web using Bluetooth
   - Beacons
-## Make input part of test plans
-- add inputs to yout device labs
-  - like Styluses
+
+### 7: Make input part of test plans
+
+- Add inputs to your device labs (like Styluses)
   - Open Device Lab ftw!
 
-=> @TODO see photo for summary  
-=> see article on ALA by Jason
+➡️ See article on ALA for more info: [Adapting to Input](http://alistapart.com/article/adapting-to-input)
 
 ## Learn from mobile context mistakes
-- people want to do the same things like on desktop
-- we think real keyboards are better, but many people are faster on virtual keybpards
-- who are we to judge? we need to learn to adapt
+
+- People want to do the same things like on desktop
+- We think real keyboards are better, but many people are faster on virtual keyboards
+- Who are we to judge? **We need to learn to adapt!**
