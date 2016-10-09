@@ -17,7 +17,7 @@
 - PWA, AMP etc.
 - => serve content over HTTPS
 - security evolved over time
-- browser support for new feature: don't care, fallbacks to old style :-)
+- browser support for new feature: don’t care, fallbacks to old style :-)
 
 ## CSP
 

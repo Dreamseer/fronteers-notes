@@ -15,8 +15,9 @@
 - Make everybody aware and care of performance, everybody’s business
 - Feel encouraged to say “no” to things slowing down your site
 - Celebrate success 🎉
-- Etsy: announce performance heroes every month on their blog
-- Be transparent (again Etsy: publishes Site Performance Reports)
+  - Etsy: announces performance heroes every month on their blog
+- Be transparent
+  - Etsy: publishes Site Performance Reports
 
 ## Performance = perception + respect
 
@@ -26,7 +27,7 @@
 
 - Treat speed as a feature
 - Optimize from user’s perspective, not with your company’s fast internet connection
-- Wireframing for performance
+- Start wireframing for performance
   - Performance point system
   - Use [WebPagetest](https://www.webpagetest.org/) for insights (film strip of loading)
   - Measurable performance modules (MPM)
@@ -47,10 +48,10 @@
 
 - Learn about the render workflow (HTML, CSS, blocking JS, render tree, layout, paint)
 - Determine critical rendering path
-- Know how the browser renders (order)
-
-@TODO: see photo
-
+- Know how the browser renders (order matters)
+- Keep HTML as clean as possible
+- Clean up your DOM by removing unused elements
+- Don’t put 3rd party features (like scripts and web fonts) in your critical path
 - 14 kB rule, serve most important content first
   - 14 kB in first TCP roundtrip
   - Keep most important styles inline

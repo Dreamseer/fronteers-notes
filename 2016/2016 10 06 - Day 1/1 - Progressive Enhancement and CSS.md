@@ -8,7 +8,7 @@
 
 ### 2003: Graceful degredation
 
-- Designer don't test more than a version back
+- Designer don’t test more than a version back
 - Expensive to retrofit to new alternate devices
 - Does not address different needs of different audiences
 
@@ -96,9 +96,9 @@ Thus:
   - Look at your audience
 - Problem: Industry overlooks Opera Mini?
   - People should be more aware of their user base and browser usage
-  - If you're lucky, use more advanced features
+  - If you’re lucky, use more advanced features
 - PE = challenges for designers and developers, do designers have to take care of it?
   - Designers have to take it into account
 - What is the biz case for PE?
-  - Again it's about user base
-  - If you use PE, it's a faster, better experience for everyone
+  - Again it’s about user base
+  - If you use PE, it’s a faster, better experience for everyone

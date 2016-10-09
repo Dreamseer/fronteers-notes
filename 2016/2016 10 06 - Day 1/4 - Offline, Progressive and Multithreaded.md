@@ -15,7 +15,7 @@
 - pouchDB, localForage are great IndexedDB wrappers
 - Offline-first
   - Not really about actual offline state
-  - It's all about speeeeeeeed 🏎
+  - It’s all about speeeeeeeed 🏎
     - Latency latency latency
     - Memory is faster than disk is faster than network
   - Autocompletion example enhanced with Local Storage
@@ -29,8 +29,8 @@
 
 - Websites progressively become apps
   - Weak version: progressively add features
-  - Strong version: must work w/o JS (see Adactio's [famous post](https://adactio.com/journal/10708))
-    - Many people don't get their sites to work w/o JS (i.e. Facebook, Gmail, Trello)
+  - Strong version: must work w/o JS (see Adactio’s [famous post](https://adactio.com/journal/10708))
+    - Many people don’t get their sites to work w/o JS (i.e. Facebook, Gmail, Trello)
 - Smartphones have JS support, but connectivity may be weak, thus use JS and keep *offline* in mind
 - Do not use a big JS file to rule them all ➡️ super slow
   - Critical HTML/CSS first, user sees stuff

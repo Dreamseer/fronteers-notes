@@ -3,7 +3,7 @@
 🗣 [Sarah Drasner](http://sarahdrasnerdesign.com/)  
 [@sarah_edo](https://twitter.com/sarah_edo)
 
-## Let's start from the beginning
+## Let’s start from the beginning
 
 - Websites start looking all the same
 - CTA buttons are powerful
@@ -18,7 +18,7 @@ Learn about **invisible animation vs. immersive animation**
 
 *= UX animation, UX choreography*
 
-- Don't interrupt users
+- don’t interrupt users
 - Reduce cognitive leaks
 - Give users an idea of sense of place
 - Do not use modals on Mobile, breaks content (*brute force* UX)

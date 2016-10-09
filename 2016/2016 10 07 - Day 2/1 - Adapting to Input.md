@@ -34,8 +34,7 @@
 
 - Phones have keyboards and cursors; desktop computers have touchscreens
 - Hover, pointer events, keyboard events
-
-- Demo: Chromebook Pixel
+- *Demo: Chromebook Pixel*
   - Larger buttons using touch vs. smaller buttons using a mouse
 
 ### 3: Input is undetectable
@@ -51,7 +50,7 @@
 ### 4: Input is transient
 
 - Knowing what input someone uses one moment tells you little about what will be used next
-- Input = Schrödinger's Cat
+- Input = Schrödinger’s Cat
   - You can detect it when it’s used
   - Input can be added or removed in seconds, so you cannot rely on certain input method
 
@@ -91,8 +90,8 @@
 
 ### 5: Abstract baseline input
 
-- Tap, click ➡️ point, select
-- Incompatbilities: 2 sets of events (mouse, touch)
+- Wording: Tap, click ➡️ point, select
+- Incompatibilities: 2 sets of events (mouse, touch)
 - Pointer Events to the rescue!
   - Shipped in Edge, FF/Chrome in development
   - pep.js polyfill

@@ -29,7 +29,7 @@ WTF?
 - 2002-2013: search
 - 2014+: platforms (Medium, Twitter, iOS, esp. Facebook)
 - developing countries come online fast and mobile-only
-  - Facebook primary app, it's the Internet for those people
+  - Facebook primary app, it’s the Internet for those people
 - Instant Articles, about 10x faster than trad. page loads
   - AMP, Apple News are competitors
 - Canvas Ads on Facebook
@@ -48,7 +48,7 @@ WTF?
 
 *Thus:*
 
-> 2015: The Web isn't dead after all
+> 2015: The Web isn’t dead after all
 
 (Told you so…)
 
@@ -79,4 +79,4 @@ WTF?
 
 ### QA
 
-* Performance is important (that's why AMP etc. exist)
+* Performance is important (that’s why AMP etc. exist)

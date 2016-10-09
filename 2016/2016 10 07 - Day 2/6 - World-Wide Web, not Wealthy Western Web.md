@@ -54,8 +54,8 @@ F*CKING BRUCE LAWSON, WOOHOO!
 
 ## Design considerations for the developing worlds
 
-- color! (don't use red in Thailand, means death)
-- don't use given + family name fields, just use a single name field
+- color! (don’t use red in Thailand, means death)
+- don’t use given + family name fields, just use a single name field
 - JS-only APIs dont work on proxy browsers
 - no CSS features which drain battery (animation, gradients, web fonts)
 - icons: use SVG
