@@ -18,17 +18,19 @@ Learn about **invisible animation vs. immersive animation**
 
 *= UX animation, UX choreography*
 
-- don’t interrupt users
+- Don’t interrupt users
 - Reduce cognitive leaks
 - Give users an idea of sense of place
 - Do not use modals on Mobile, breaks content (*brute force* UX)
 - Motion solves user problems
 - Good animation = good branding
-- Accessibility tip: disable animation via toggle!
+- Accessibility tip: Disable animation via toggle!
 - *Demo time: Barcelona site, maps…*
 - Animation supports user flow
-- Animation needs to be added at start, not as sugar on top
+- Animation needs to be added at start, not as sugar on top:
+  > "If animation just feels like the sugar on top, that’s because you treated it that way."
 - Think of spatial awareness (like seat selection and actual movie view)
+  - See [Smoothstate.js](https://github.com/miguel-perez/smoothState.js)
 - Space conservation
 
 ### Performance
@@ -39,32 +41,37 @@ Learn about **invisible animation vs. immersive animation**
 
 ## Immersive animation
 
-- DOM/virtual DOM
-  - Great for UI/UX animation
-  - Great for SVG (resolution independent)
-  - Easier to debug
-  - Tanks with a lot of objects
-  - You must take care about the way you animate
-- Canvas
-  - Dance, pixels, dance!
-  - Great for really impressive 3D animation
-  - Movement of tons of objects
-  - Hard to make accessible
-  - Not resolution independent out of the box
-  - Breaks to nothing
-- SVG animation
-  - Very good support
-  - Crisp on any display
-  - Less HTTP requests
-  - Easily scalable for responsive
-  - Small filesize if designed for performance
-  - Easy to animate (has a DOM after all)
-  - Easy to make accessible
-  - Interactive and immersive
-  - Narrative
-  - Also good for prototyping
-  - Responsive SVG
-    - Media queries to reduce complexity and stuff for smaller screens
+**Animation using the DOM/virtual DOM:**
+
+- ✅ Great for UI/UX animation
+- ✅ Great for SVG (resolution independent)
+- ✅ Easier to debug
+- 🚫 Tanks with a lot of objects
+- 🚫 You must take care about the way you animate
+
+**Animation using canvas:**
+
+- ✅ Dance, pixels, dance!
+- ✅ Great for really impressive 3D animation or immersive stuff
+- ✅ Movement of tons of objects
+- 🚫 Harder to make accessible
+- 🚫 Not resolution independent **out of the box**
+- 🚫 Breaks to nothing
+
+**Use SVG for your animations:**
+
+- Very good browser support
+- Crisp on any display
+- Less HTTP requests
+- Easily scalable for responsive
+- Small filesize if designed for performance
+- Easy to animate (has a DOM after all)
+- Easy to make accessible
+- Interactive and immersive
+- Narrative
+- Also good for prototyping
+- Responsive SVG
+  - Media queries to reduce complexity and stuff for smaller screens
 
 ### Meet [GreenSock](http://greensock.com/) (GSAP)
 
