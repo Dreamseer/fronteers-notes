@@ -2,6 +2,8 @@
 
 🗣 Lodewijk Nauta
 
+---
+
 ## KPMG Health
 
 - KPMG collected data from their employees (FitBit, GPS, Exchange)

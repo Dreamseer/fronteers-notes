@@ -3,6 +3,8 @@
 🗣 [Barbara Bermes](http://www.bbinto.me/)  
 [@bbinto](https://twitter.com/bbinto)
 
+---
+
 ## Why care about performance?
 
 - People do not want to wait

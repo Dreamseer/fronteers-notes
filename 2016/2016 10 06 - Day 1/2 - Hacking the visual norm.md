@@ -3,6 +3,8 @@
 🗣 [Nadieh Bremer](http://visualcinnamon.com/)  
 [@NadiehBremer](http://twitter.com/NadiehBremer)
 
+---
+
 ➡️ Very artsy, see video + slides later 🎨
 
 > Combine, reuse, design, hack charts

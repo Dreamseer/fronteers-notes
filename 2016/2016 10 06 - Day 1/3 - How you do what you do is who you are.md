@@ -3,6 +3,8 @@
 🗣 [Scott Olson](https://paper.fiftythree.com/scott)  
 [@gscottolson](https://twitter.com/gscottolson)
 
+---
+
 ## Using React to improve UX
 
 - Paper has multiple services: phone/tablet/web app

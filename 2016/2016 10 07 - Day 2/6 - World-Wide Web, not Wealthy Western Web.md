@@ -3,6 +3,8 @@
 🗣 [Bruce Lawson](http://www.brucelawson.co.uk/)  
 [@brucel](https://twitter.com/brucel)
 
+---
+
 ## You should make the Web better for …
 
 - Developers

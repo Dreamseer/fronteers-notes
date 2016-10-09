@@ -4,6 +4,8 @@
 [bitsofco.de](https://bitsofco.de/)  
 [@ireaderinokun](https://twitter.com/ireaderinokun)
 
+---
+
 ## What is it?
 
 ### 2003: Graceful degredation

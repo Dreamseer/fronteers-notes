@@ -3,6 +3,8 @@
 🗣 [Zell Liew](http://zellwk.com/)  
 [@zellwk](https://twitter.com/zellwk)
 
+---
+
 ## Responsive components
 
 - We think about modularity

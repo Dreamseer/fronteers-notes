@@ -3,6 +3,8 @@
 🗣 [Martin Splitt](http://geekonaut.de/)  
 [@g33konaut](https://twitter.com/g33konaut)
 
+---
+
 Great VR app: **Tilt Brush**
 
 ## VR is great for …

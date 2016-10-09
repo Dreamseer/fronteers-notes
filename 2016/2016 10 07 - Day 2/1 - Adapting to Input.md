@@ -3,6 +3,8 @@
 🗣 [Jason Grigsby](http://blog.cloudfour.com/)  
 [@grigs](https://twitter.com/grigs)
 
+---
+
 ## A history lesson
 
 - In the beginning the Web was formless

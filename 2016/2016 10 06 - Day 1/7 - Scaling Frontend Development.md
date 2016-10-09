@@ -3,6 +3,8 @@
 🗣 [Monika Piotrowicz](http://www.monikapiotrowicz.com)  
 [@monsika](https://twitter.com/monsika)
 
+---
+
 ## FED at Shopify
 
 - HTML, CSS, JavaScript, gazillions of tools

@@ -3,6 +3,8 @@
 🗣 [Sarah Drasner](http://sarahdrasnerdesign.com/)  
 [@sarah_edo](https://twitter.com/sarah_edo)
 
+---
+
 ## Let’s start from the beginning
 
 - Websites start looking all the same

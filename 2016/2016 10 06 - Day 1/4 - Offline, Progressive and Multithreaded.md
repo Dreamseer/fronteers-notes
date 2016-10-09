@@ -3,6 +3,8 @@
 🗣 [Nolan Lawson](http://nolanlawson.com/)  
 [@nolanlawson](https://twitter.com/nolanlawson) (slides linked on Twitter)
 
+---
+
 ## PWA = latest buzzword
 
 - PWA = service worker + app manifest + push notifications + IndexedDB
