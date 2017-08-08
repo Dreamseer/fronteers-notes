@@ -1,7 +1,8 @@
 # Cheat Sheet to a Lean Website
 
 🗣 [Barbara Bermes](http://www.bbinto.me/)  
-[@bbinto](https://twitter.com/bbinto)
+🐦 [@bbinto](https://twitter.com/bbinto)
+📺 [Video](https://vimeo.com/194962379)
 
 ---
 

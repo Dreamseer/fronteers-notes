@@ -1,7 +1,8 @@
 # How you do what you do is who you are
 
 🗣 [Scott Olson](https://paper.fiftythree.com/scott)  
-[@gscottolson](https://twitter.com/gscottolson)
+🐦 [@gscottolson](https://twitter.com/gscottolson)
+📺 [Video](https://vimeo.com/194830777)
 
 ---
 

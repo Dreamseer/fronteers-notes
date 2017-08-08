@@ -1,7 +1,8 @@
 # Multi-user WebVR or: Wait, Who Are These People?
 
 🗣 [Martin Splitt](http://geekonaut.de/)  
-[@g33konaut](https://twitter.com/g33konaut)
+🐦 [@g33konaut](https://twitter.com/g33konaut)
+📺 [Video](https://vimeo.com/194875227)
 
 ---
 

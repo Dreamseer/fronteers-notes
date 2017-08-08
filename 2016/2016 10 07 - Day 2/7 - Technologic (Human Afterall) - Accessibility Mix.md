@@ -1,7 +1,8 @@
 #  Technologic (Human Afterall): Accessibility Mix
 
 🗣 [Léonie Watson](http://tink.uk/)  
-[@leoniewatson](https://twitter.com/leoniewatson)
+🐦 [@leoniewatson](https://twitter.com/leoniewatson)
+📺 [Video](https://vimeo.com/194964027)
 
 ---
 

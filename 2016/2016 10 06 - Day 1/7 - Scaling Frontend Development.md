@@ -1,7 +1,8 @@
 # Scaling Frontend Development
 
 🗣 [Monika Piotrowicz](http://www.monikapiotrowicz.com)  
-[@monsika](https://twitter.com/monsika)
+🐦 [@monsika](https://twitter.com/monsika)
+📺 [Video](https://vimeo.com/194961049)
 
 ---
 

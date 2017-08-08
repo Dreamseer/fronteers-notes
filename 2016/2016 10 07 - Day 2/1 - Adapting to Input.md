@@ -1,7 +1,8 @@
 # Adapting to Input
 
 🗣 [Jason Grigsby](http://blog.cloudfour.com/)  
-[@grigs](https://twitter.com/grigs)
+🐦 [@grigs](https://twitter.com/grigs)
+📺 [Video](https://vimeo.com/194967832)
 
 ---
 

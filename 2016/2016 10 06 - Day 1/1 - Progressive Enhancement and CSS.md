@@ -1,8 +1,9 @@
 # Progressive Enhancement and CSS
 
 🗣 [Ire Aderinokun](http://ireaderinokun.com)  
-[bitsofco.de](https://bitsofco.de/)  
-[@ireaderinokun](https://twitter.com/ireaderinokun)
+📝 [bitsofco.de](https://bitsofco.de/)  
+🐦 [@ireaderinokun](https://twitter.com/ireaderinokun)
+📺 [Video](https://vimeo.com/194815985)
 
 ---
 

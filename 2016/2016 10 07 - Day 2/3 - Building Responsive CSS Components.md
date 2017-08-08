@@ -1,7 +1,8 @@
 # Building Responsive CSS Components
 
 🗣 [Zell Liew](http://zellwk.com/)  
-[@zellwk](https://twitter.com/zellwk)
+🐦 [@zellwk](https://twitter.com/zellwk)
+📺 [Video](https://vimeo.com/194962824)
 
 ---
 

@@ -1,7 +1,8 @@
 # Offline, Progressive and Multithreaded: A peek at the web apps of the future
 
 🗣 [Nolan Lawson](http://nolanlawson.com/)  
-[@nolanlawson](https://twitter.com/nolanlawson) (slides linked on Twitter)
+🐦 [@nolanlawson](https://twitter.com/nolanlawson) (slides linked on Twitter)
+📺 [Video](https://vimeo.com/194834593)
 
 ---
 

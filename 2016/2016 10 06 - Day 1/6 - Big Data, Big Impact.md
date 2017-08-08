@@ -1,6 +1,7 @@
 # Big Data, Big Impact
 
 🗣 Lodewijk Nauta
+📺 [Video](https://vimeo.com/194877685)
 
 ---
 

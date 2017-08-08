@@ -1,7 +1,8 @@
 # Functional Animation
 
 🗣 [Sarah Drasner](http://sarahdrasnerdesign.com/)  
-[@sarah_edo](https://twitter.com/sarah_edo)
+🐦 [@sarah_edo](https://twitter.com/sarah_edo)
+📺 [Video](https://vimeo.com/194963386)
 
 ---
 

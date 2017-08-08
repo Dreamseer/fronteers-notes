@@ -1,7 +1,8 @@
 # World-Wide Web, not Wealthy Western Web
 
 🗣 [Bruce Lawson](http://www.brucelawson.co.uk/)  
-[@brucel](https://twitter.com/brucel)
+🐦 [@brucel](https://twitter.com/brucel)
+📺 [Video](https://vimeo.com/194968584)
 
 ---
 

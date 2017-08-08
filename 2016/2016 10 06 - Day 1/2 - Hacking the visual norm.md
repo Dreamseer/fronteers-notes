@@ -1,7 +1,8 @@
 # Hacking the visual norm
 
 🗣 [Nadieh Bremer](http://visualcinnamon.com/)  
-[@NadiehBremer](http://twitter.com/NadiehBremer)
+🐦 [@NadiehBremer](http://twitter.com/NadiehBremer)
+📺 [Video](https://vimeo.com/194817475)
 
 ---
 
