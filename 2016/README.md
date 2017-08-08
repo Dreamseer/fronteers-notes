@@ -23,7 +23,7 @@ Host: [Phil Hawksworth](https://twitter.com/philhawksworth)
 4. [CSP STS PKP SRI ETC OMG WTF BBQ](2016%2010%2007%20-%20Day%202/4%20-%20CSP%20STS%20PKP%20SRI%20ETC%20OMG%20WTF%20BBQ.md) – [Scott Helme](https://twitter.com/Scott_Helme)
 5. [Functional Animation](2016%2010%2007%20-%20Day%202/5%20-%20Functional%20Animation.md) – [Sarah Drasner](https://twitter.com/sarah_edo)
 6. [World-Wide Web, not Wealthy Western Web](2016%2010%2007%20-%20Day%202/6%20-%20World-Wide%20Web,%20not%20Wealthy%20Western%20Web.md) – [Bruce Lawson](https://twitter.com/brucel)
-7. [Technologic (Human Afterall): Accessibility mix](2016%2010%2007%20-%20Day%202/7%20-%20Technologic%20(Human%20Afterall)%20-%20Accessibility%20Mix.md) – [Léonie Watson](https://twitter.com/leoniewatson)
+7. [Technologic (Human Afterall): Accessibility mix](2016%2010%2007%20-%20Day%202/7%20-%20Technologic%20%28Human%20Afterall%29%20-%20Accessibility%20Mix.md) – [Léonie Watson](https://twitter.com/leoniewatson)
 8. [Joining Up The Dots](2016%2010%2007%20-%20Day%202/8%20-%20Joining%20Up%20the%20Dots.md) – [Heydon Pickering](https://twitter.com/heydonworks)
 
 ## Hash tag
