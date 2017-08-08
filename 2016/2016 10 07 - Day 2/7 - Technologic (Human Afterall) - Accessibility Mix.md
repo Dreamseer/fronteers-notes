@@ -1,8 +1,8 @@
 #  Technologic (Human Afterall): Accessibility Mix
 
-🗣 [Léonie Watson](http://tink.uk/)  
-🐦 [@leoniewatson](https://twitter.com/leoniewatson)
-📺 [Video](https://vimeo.com/194964027)
+:bust_in_silhouette: [Léonie Watson](https://tink.uk/)  
+:bird:               [@leoniewatson](https://twitter.com/leoniewatson)  
+:tv:                 [Video](https://vimeo.com/194964027)
 
 ---
 
@@ -49,7 +49,7 @@
 - React a11y API
 - Angular is a bit harder; you need NGARIA which makes things easer
 
-♿️ Test yourself:
+:wheelchair: Test yourself:
 
 - Unplug mouse
 - Use keyboard on your site

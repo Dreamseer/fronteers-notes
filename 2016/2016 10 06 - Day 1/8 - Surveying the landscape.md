@@ -1,8 +1,8 @@
 # Surveying the Landscape
 
-🗣 [Peter Gasston](https://about.me/petergasston)  
-🐦 [@stopsatgreen](https://twitter.com/stopsatgreen)
-📺 [Video](https://vimeo.com/194961226)
+:bust_in_silhouette: [Peter Gasston](https://about.me/petergasston)  
+:bird:               [@stopsatgreen](https://twitter.com/stopsatgreen)  
+:tv:                 [Video](https://vimeo.com/194961226)
 
 ---
 

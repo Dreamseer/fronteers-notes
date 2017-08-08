@@ -1,8 +1,8 @@
 # World-Wide Web, not Wealthy Western Web
 
-🗣 [Bruce Lawson](http://www.brucelawson.co.uk/)  
-🐦 [@brucel](https://twitter.com/brucel)
-📺 [Video](https://vimeo.com/194968584)
+:bust_in_silhouette: [Bruce Lawson](https://www.brucelawson.co.uk/)  
+:bird:               [@brucel](https://twitter.com/brucel)  
+:tv:                 [Video](https://vimeo.com/194968584)
 
 ---
 
@@ -40,7 +40,7 @@
   - Requires no app store
   - Lives on the server, no update required
   - Works offline
-- Service Workers 🎉
+- Service Workers :tada:
   - Enables push notifications (but don’t spam, yo!)
   - Enables background sync (useful for flaky networks)
 - Responsive images
@@ -52,7 +52,7 @@
     - Works with Thor (server on Iceland), minimizes site to about 10%
     - New ad-blocking: sites in general are 14% faster, Facebook is even 35% faster
     - 89% less data, 14% less battery
-- Battery life matters 🔋 (think of your daily commute)
+- Battery life matters :battery: (think of your daily commute)
 
 ## Design considerations for the developing worlds
 
@@ -63,4 +63,4 @@
 - Icons: Use SVG instead of fonts
 - Serve HTML instead of JS that serves HTML (ask Airbnb, it’s faster, who knew?)
 
-‼️ Whoa. 😳 Watch video later for more details on Asian and African development of Internet usage, lots of stats and stuff.
+‼️ Whoa. :astonished: Watch video later for more details on Asian and African development of Internet usage, lots of stats and stuff.

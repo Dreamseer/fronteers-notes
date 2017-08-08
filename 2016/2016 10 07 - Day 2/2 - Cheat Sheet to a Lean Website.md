@@ -1,8 +1,8 @@
 # Cheat Sheet to a Lean Website
 
-🗣 [Barbara Bermes](http://www.bbinto.me/)  
-🐦 [@bbinto](https://twitter.com/bbinto)
-📺 [Video](https://vimeo.com/194962379)
+:bust_in_silhouette: [Barbara Bermes](http://www.bbinto.me/)  
+:bird:               [@bbinto](https://twitter.com/bbinto)  
+:tv:                 [Video](https://vimeo.com/194962379)
 
 ---
 
@@ -11,13 +11,13 @@
 - People do not want to wait
 - Sites are getting fatter
 - 79% online shoppers won’t return to a website due to poor performance
-- One second delay = 7% loss CVR ➡️ wpostats.com
+- One second delay = 7% loss CVR :arrow_right: wpostats.com
 
 ## Shape performance culture
 
 - Make everybody aware and care of performance, everybody’s business
 - Feel encouraged to say “no” to things slowing down your site
-- Celebrate success 🎉
+- Celebrate success :tada:
   - Etsy: announces performance heroes every month on their blog
 - Be transparent
   - Etsy: publishes Site Performance Reports
@@ -76,7 +76,7 @@
 - Create sprites
 - Use data URIs
 
-❓ *What about HTTP/2?*
+:question: *What about HTTP/2?*
 
 ## Latency
 

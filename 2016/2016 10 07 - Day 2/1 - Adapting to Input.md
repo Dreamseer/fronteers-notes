@@ -1,8 +1,8 @@
 # Adapting to Input
 
-🗣 [Jason Grigsby](http://blog.cloudfour.com/)  
-🐦 [@grigs](https://twitter.com/grigs)
-📺 [Video](https://vimeo.com/194967832)
+:bust_in_silhouette: [Jason Grigsby](https://cloudfour.com/thinks/)  
+:bird:               [@grigs](https://twitter.com/grigs)  
+:tv:                 [Video](https://vimeo.com/194967832)
 
 ---
 
@@ -31,7 +31,7 @@
 - Next: Pre-sensing touch
   - Hover is back!
 
-➡️  The last decade has seen everything from accelerometers to GPS to 3D touch. **Input is not slowing down!**
+:arrow_right: The last decade has seen everything from accelerometers to GPS to 3D touch. **Input is not slowing down!**
 
 ### 2: Input is a continuum
 
@@ -66,7 +66,7 @@
   - Touch: recommended size 10mm
   - Keyboard/mouse: recommended size 7mm
 
-➡️ Design touch first (largest target use)
+:arrow_right: Design touch first (largest target use)
 
 ### 2: Design for modes of interation instead of input
 
@@ -74,7 +74,7 @@
   - Larger rows in Gmail
   - Couch Mode in Vimeo
 
-➡️ Design for user need, not for input
+:arrow_right: Design for user need, not for input
 
 ### 3: Make things accessible
 
@@ -82,24 +82,24 @@
   - Support arrow key events
   - Feature undetectable, thus support arrow key navigation by default
 
-➡️ Support accessibility features
+:arrow_right: Support accessibility features
 
 ### 4: Design for multiple concurrent inputs
 
 - Mouse + keyboard
 - Touch + trackpad (see Chromebook Pixel)
 
-➡️ Combine inputs for great UX
+:arrow_right: Combine inputs for great UX
 
 ### 5: Abstract baseline input
 
-- Wording: Tap, click ➡️ point, select
+- Wording: Tap, click :arrow_right: point, select
 - Incompatibilities: 2 sets of events (mouse, touch)
 - Pointer Events to the rescue!
   - Shipped in Edge, FF/Chrome in development
   - pep.js polyfill
 
-➡️ Use Pointer Events
+:arrow_right: Use Pointer Events
 
 ### 6: Progressively enhance input
 
@@ -120,7 +120,7 @@
 - Add inputs to your device labs (like Styluses)
   - Open Device Lab ftw!
 
-➡️ See article on ALA for more info: [Adapting to Input](http://alistapart.com/article/adapting-to-input)
+:arrow_right: See article on ALA for more info: [Adapting to Input](http://alistapart.com/article/adapting-to-input)
 
 ## Learn from mobile context mistakes
 

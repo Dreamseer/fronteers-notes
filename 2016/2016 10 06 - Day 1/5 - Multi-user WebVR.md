@@ -1,8 +1,8 @@
 # Multi-user WebVR or: Wait, Who Are These People?
 
-🗣 [Martin Splitt](http://geekonaut.de/)  
-🐦 [@g33konaut](https://twitter.com/g33konaut)
-📺 [Video](https://vimeo.com/194875227)
+:bust_in_silhouette: [Martin Splitt](https://geekonaut.de/)  
+:bird:               [@g33konaut](https://twitter.com/g33konaut)  
+:tv:                 [Video](https://vimeo.com/194875227)
 
 ---
 
@@ -18,7 +18,7 @@ Great VR app: **Tilt Brush**
 
 ## VR silos are created
 
-- Oculus + DRM = bad, but they fixed it, woohoo 🎉
+- Oculus + DRM = bad, but they fixed it, woohoo :tada:
 - Many different kinds of hardware, many silos
 
 ## WebVR to the rescue
@@ -36,8 +36,8 @@ Great VR app: **Tilt Brush**
 ## How to use
 
 - Experimental browser builds
-- Gamepad API support 🎮
-- No DOM just yet 😔
+- Gamepad API support :video_game:
+- No DOM just yet :disappointed:
 - Progressive Enhancement bc. different devices with different capabilities
 
 ➡️ [bit.ly/fronteers-webvr](http://bit.ly/fronteers-webvr)  

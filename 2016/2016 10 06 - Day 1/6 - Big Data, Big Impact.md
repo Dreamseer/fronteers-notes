@@ -1,7 +1,7 @@
 # Big Data, Big Impact
 
-🗣 Lodewijk Nauta
-📺 [Video](https://vimeo.com/194877685)
+:bust_in_silhouette: Lodewijk Nauta  
+:tv:                 [Video](https://vimeo.com/194877685)
 
 ---
 
@@ -24,7 +24,7 @@
 - Demo: heat map video
 - Data Driven Customer Journey (for users/customers)
 
-*Wait… what? Didn’t get the use case for frontend development.* 😔
+*Wait… what? Didn’t get the use case for frontend development.* :disappointed:
 
 ## QA
 

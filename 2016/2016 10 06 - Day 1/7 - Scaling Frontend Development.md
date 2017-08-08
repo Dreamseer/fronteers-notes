@@ -1,8 +1,8 @@
 # Scaling Frontend Development
 
-🗣 [Monika Piotrowicz](http://www.monikapiotrowicz.com)  
-🐦 [@monsika](https://twitter.com/monsika)
-📺 [Video](https://vimeo.com/194961049)
+:bust_in_silhouette: [Monika Piotrowicz](https://www.monikapiotrowicz.com/)  
+:bird:               [@monsika](https://twitter.com/monsika)  
+:tv:                 [Video](https://vimeo.com/194961049)
 
 ---
 
@@ -11,7 +11,7 @@
 - HTML, CSS, JavaScript, gazillions of tools
 - Chaos?
   - inconsistent or buggy UI
-  - spaghetti code 🍝
+  - spaghetti code :spaghetti:
   - hard to maintain or iterate
   - not accessible/performant/responsive
 
@@ -29,7 +29,7 @@
   - If hard to enforce, it might not be helpful
 - Burning code down is no option
 - Builds a culture of feedback and knowledge sharing
-  - Embrace pair programming! 🙏🏼
+  - Embrace pair programming! :pray:
 
 ### Pattern libraries
 
@@ -45,17 +45,17 @@
 - Shopify UI library
   - Reusable core patterns
   - Ask: What are actual patterns? How should it be built?
-  - Components ➡️ modules
+  - Components :arrow_right: modules
 - Solve problems once
 - More people can contribute
 - More time on most impactful features
 
 ## Summary
 
-- teach – build – review 🔁
+- teach – build – review :repeat:
 - Building a culture
 - Leverage expectations, improve hiring
-- Have more conversations 💬
+- Have more conversations :speech_balloon:
   - Team talks
   - Talk about standards, common problems, share work from in and out of the day
   - Talk to designers (UX workshop) and backend devs (teach FE concepts)

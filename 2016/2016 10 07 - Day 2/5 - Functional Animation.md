@@ -1,8 +1,8 @@
 # Functional Animation
 
-🗣 [Sarah Drasner](http://sarahdrasnerdesign.com/)  
-🐦 [@sarah_edo](https://twitter.com/sarah_edo)
-📺 [Video](https://vimeo.com/194963386)
+:bust_in_silhouette: [Sarah Drasner](http://sarahdrasnerdesign.com/)  
+:bird:               [@sarah_edo](https://twitter.com/sarah_edo)  
+:tv:                 [Video](https://vimeo.com/194963386)
 
 ---
 
@@ -13,7 +13,7 @@
 - Growth-hacking
 - User-testing
 
-➡️ But animation gets a bad rap 🙁
+:arrow_right: But animation gets a bad rap :disappointed:
 
 Learn about **invisible animation vs. immersive animation**
 
@@ -46,20 +46,20 @@ Learn about **invisible animation vs. immersive animation**
 
 **Animation using the DOM/virtual DOM:**
 
-- ✅ Great for UI/UX animation
-- ✅ Great for SVG (resolution independent)
-- ✅ Easier to debug
-- 🚫 Tanks with a lot of objects
-- 🚫 You must take care about the way you animate
+- :white_check_mark: Great for UI/UX animation
+- :white_check_mark: Great for SVG (resolution independent)
+- :white_check_mark: Easier to debug
+- :no_entry_sign: Tanks with a lot of objects
+- :no_entry_sign: You must take care about the way you animate
 
 **Animation using canvas:**
 
-- ✅ Dance, pixels, dance!
-- ✅ Great for really impressive 3D animation or immersive stuff
-- ✅ Movement of tons of objects
-- 🚫 Harder to make accessible
-- 🚫 Not resolution independent **out of the box**
-- 🚫 Breaks to nothing
+- :white_check_mark: Dance, pixels, dance!
+- :white_check_mark: Great for really impressive 3D animation or immersive stuff
+- :white_check_mark: Movement of tons of objects
+- :no_entry_sign: Harder to make accessible
+- :no_entry_sign: Not resolution independent **out of the box**
+- :no_entry_sign: Breaks to nothing
 
 **Use SVG for your animations:**
 

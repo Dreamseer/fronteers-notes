@@ -1,17 +1,17 @@
 # Hacking the visual norm
 
-🗣 [Nadieh Bremer](http://visualcinnamon.com/)  
-🐦 [@NadiehBremer](http://twitter.com/NadiehBremer)
-📺 [Video](https://vimeo.com/194817475)
+:bust_in_silhouette: [Nadieh Bremer](https://visualcinnamon.com/)  
+:bird:               [@NadiehBremer](https://twitter.com/NadiehBremer)  
+:tv:                 [Video](https://vimeo.com/194817475)
 
 ---
 
-➡️ Very artsy, see video + slides later 🎨
+➡️ Very artsy, see video + slides later :art:
 
 > Combine, reuse, design, hack charts
 
 - D3.js ftw
-- Data visualization = network 📊
+- Data visualization = network :bar_chart:
 - Chart: development of HR chart for [Adyen](http://www.adyen.com/)
 - Chart: 10 most popular girl names
   - Uses an additional mini chart to show more data and allow selection of a wider range of data
@@ -29,4 +29,4 @@
   - Sketches on paper first, then design with actual data
 - Is progressive enhancement an option?
   - Work: support for IE8, thus required
-  - Personal: don’t care 😄
+  - Personal: don’t care :smile:

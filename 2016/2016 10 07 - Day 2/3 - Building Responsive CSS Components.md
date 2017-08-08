@@ -1,8 +1,8 @@
 # Building Responsive CSS Components
 
-🗣 [Zell Liew](http://zellwk.com/)  
-🐦 [@zellwk](https://twitter.com/zellwk)
-📺 [Video](https://vimeo.com/194962824)
+:bust_in_silhouette: [Zell Liew](https://zellwk.com/)  
+:bird:               [@zellwk](https://twitter.com/zellwk)  
+:tv:                 [Video](https://vimeo.com/194962824)
 
 ---
 

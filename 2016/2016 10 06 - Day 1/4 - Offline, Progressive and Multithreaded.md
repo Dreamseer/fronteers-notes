@@ -1,8 +1,8 @@
 # Offline, Progressive and Multithreaded: A peek at the web apps of the future
 
-🗣 [Nolan Lawson](http://nolanlawson.com/)  
-🐦 [@nolanlawson](https://twitter.com/nolanlawson) (slides linked on Twitter)
-📺 [Video](https://vimeo.com/194834593)
+:bust_in_silhouette: [Nolan Lawson](https://nolanlawson.com/)  
+:bird:               [@nolanlawson](https://twitter.com/nolanlawson) (slides linked on Twitter)  
+:tv:                 [Video](https://vimeo.com/194834593)
 
 ---
 
@@ -18,14 +18,14 @@
 - pouchDB, localForage are great IndexedDB wrappers
 - Offline-first
   - Not really about actual offline state
-  - It’s all about speeeeeeeed 🏎
+  - It’s all about speeeeeeeed :horse_racing:
     - Latency latency latency
     - Memory is faster than disk is faster than network
   - Autocompletion example enhanced with Local Storage
 - Old vs. new:
   - Static data: App Cache vs. Cache API (SW)
   - Dynamic query data: Local Storage and WebSQL vs. IndexedDB
-    - Local Storage has race conditions and is synchronous ➡️ BOO!
+    - Local Storage has race conditions and is synchronous :arrow_right: BOO!
     - IndexedDB is asynchronous and transaction-based, but hard to work with (use an abstraction, dude!)
 
 ## Progressive
@@ -35,7 +35,7 @@
   - Strong version: must work w/o JS (see Adactio’s [famous post](https://adactio.com/journal/10708))
     - Many people don’t get their sites to work w/o JS (i.e. Facebook, Gmail, Trello)
 - Smartphones have JS support, but connectivity may be weak, thus use JS and keep *offline* in mind
-- Do not use a big JS file to rule them all ➡️ super slow
+- Do not use a big JS file to rule them all :arrow_right: super slow
   - Critical HTML/CSS first, user sees stuff
   - Then download JS
   - Server-side React, Fastboot, Angular 2 isolated renderer FTW!
@@ -51,4 +51,4 @@
 
 ## QA
 
-- Missed it, look up other notes 😔
+- Missed it, look up other notes :disappointed:

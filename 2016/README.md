@@ -7,12 +7,12 @@ Host: [Phil Hawksworth](https://twitter.com/philhawksworth)
 ### Day 1
 
 1. [Progressive Enhancement and CSS](2016%2010%2006%20-%20Day%201/1%20-%20Progressive%20Enhancement%20and%20CSS.md) – [Ire Aderinokun](https://twitter.com/ireaderinokun)
-2. [Hacking the visual norm](2016%2010%2006%20-%20Day%201/2%20-%20Hacking%20the%20visual%20norm.md) – [Nadieh Bremer](http://twitter.com/NadiehBremer)
+2. [Hacking the visual norm](2016%2010%2006%20-%20Day%201/2%20-%20Hacking%20the%20visual%20norm.md) – [Nadieh Bremer](https://twitter.com/NadiehBremer)
 3. [How You Do What You Do Is Who You Are](2016%2010%2006%20-%20Day%201/3%20-%20How%20you%20do%20what%20you%20do%20is%20who%20you%20are.md) – [G. Scott Olson](https://twitter.com/gscottolson)
 4. [Offline, progressive, and multithreaded: a peek at the webapps of the future](2016%2010%2006%20-%20Day%201/4%20-%20Offline,%20Progressive%20and%20Multithreaded.md) – [Nolan Lawson](https://twitter.com/nolanlawson)
 5. [Multi-user WebVR or: Wait, who are these people?](2016%2010%2006%20-%20Day%201/5%20-%20Multi-user%20WebVR.md) – [Martin Splitt](https://twitter.com/g33konaut)
 6. [Big Data, Big Impact](2016%2010%2006%20-%20Day%201/6%20-%20Big%20Data,%20Big%20Impact.md) – Lodewijk Nauta
-7. [Scaling Front End Development](2016%2010%2006%20-%20Day%201/7%20-%20Scaling%20Frontend%20Development.md) – [Monika Piotrowicz](https://twitter.com/monsika) 👍🏼
+7. [Scaling Front End Development](2016%2010%2006%20-%20Day%201/7%20-%20Scaling%20Frontend%20Development.md) – [Monika Piotrowicz](https://twitter.com/monsika) :thumbsup:
 8. [Surveying the Landscape](2016%2010%2006%20-%20Day%201/8%20-%20Surveying%20the%20landscape.md) – [Peter Gasston](https://twitter.com/stopsatgreen)
 
 ### Day 2

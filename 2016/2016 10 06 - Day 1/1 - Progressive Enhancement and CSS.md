@@ -1,9 +1,9 @@
 # Progressive Enhancement and CSS
 
-🗣 [Ire Aderinokun](http://ireaderinokun.com)  
-📝 [bitsofco.de](https://bitsofco.de/)  
-🐦 [@ireaderinokun](https://twitter.com/ireaderinokun)
-📺 [Video](https://vimeo.com/194815985)
+:bust_in_silhouette: [Ire Aderinokun](https://ireaderinokun.com/)  
+:memo:               [bitsofco.de](https://bitsofco.de/)  
+:bird:               [@ireaderinokun](https://twitter.com/ireaderinokun)  
+:tv:                 [Video](https://vimeo.com/194815985)
 
 ---
 
@@ -84,7 +84,7 @@
 ## 2016
 
 - VR + watches in the game
-- New technologies like Angular 23 😄
+- New technologies like Angular 23 :smile:
 - More people online with different hardware
 
 Thus:

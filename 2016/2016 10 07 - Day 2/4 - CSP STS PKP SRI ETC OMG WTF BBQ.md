@@ -1,8 +1,8 @@
 # CSP STS PKP SRI ETC OMG WTF BBQ
 
-🗣 [Scott Helme](https://scotthelme.co.uk/)  
-🐦 [@Scott_Helme](https://twitter.com/Scott_Helme)
-📺 [Video](https://vimeo.com/194961863)
+:bust_in_silhouette: [Scott Helme](https://scotthelme.co.uk/)  
+:bird:               [@Scott_Helme](https://twitter.com/Scott_Helme)  
+:tv:                 [Video](https://vimeo.com/194961863)
 
 ---
 
@@ -14,14 +14,14 @@
   - Geolocation API
   - `getUserMedia()`
   - AppCache
-- Brotli compression 🍞
+- Brotli compression :bread:
   - Better than Gzip, HTTPS-only
 - SEO boost according to Google
 - Enables all the cool stuff like PWA, AMP etc.
 - Security evolved over time
-- Browser support for new HTTPS feature: you shouldn’t care, it falls back to old style 👍🏼
+- Browser support for new HTTPS feature: you shouldn’t care, it falls back to old style :thumbsup:
 
-➡️ serve your content over HTTPS
+:arrow_right: serve your content over HTTPS
 
 ## Content Security Policy (CSP)
 
@@ -36,7 +36,7 @@
 
 ## HTTP Strict Transport Security (HSTS)
 
-- Flow without HSTS: `http:` ➡️ `301 https:` ➡️ `https:`
+- Flow without HSTS: `http:` :arrow_right: `301 https:` :arrow_right: `https:`
 - Flow with HSTS:
   - SSL/TLS stripped
   - Browser defaults to HTTPS

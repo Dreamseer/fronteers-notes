@@ -1,8 +1,8 @@
 # How you do what you do is who you are
 
-🗣 [Scott Olson](https://paper.fiftythree.com/scott)  
-🐦 [@gscottolson](https://twitter.com/gscottolson)
-📺 [Video](https://vimeo.com/194830777)
+:bust_in_silhouette: [Scott Olson](https://paper.fiftythree.com/scott)  
+:bird:               [@gscottolson](https://twitter.com/gscottolson)  
+:tv:                 [Video](https://vimeo.com/194830777)
 
 ---
 
@@ -15,18 +15,18 @@
   - Express
   - Webpack
   - Babel
-  - Coffescript ➡️ ES6 ➡️ Typescript
+  - Coffescript :arrow_right: ES6 :arrow_right: Typescript
   - Stylus + Nib + inline styles in components (test-wise)
   - CSS Modules
 - **React all the things**: ~450 kB bundled code
 
 ### Image preloading
 
-- Baseline JPG or 404 image = no great UX 🙅
+- Baseline JPG or 404 image = no great UX :no_good:
 - Use React for loading image, broken image, final image using JS Image API
-- Transparent spacer images (WHAT?) for loading and better UX ➡️ no jank
+- Transparent spacer images (WHAT?) for loading and better UX :arrow_right: no jank
 - Use data URI for spacers = no add. request
-- Different aspect ratios = different spacers ➡️ embrace SVG in React
+- Different aspect ratios = different spacers :arrow_right: embrace SVG in React
 - Load images in defined orders, specifically important for Mobile
 
 ### Fluid text inputs
@@ -55,7 +55,7 @@
   - Redux store, graph store
   - Handling S3 errors
 
-@TODO: Either re-watch this part or re-use other people’s notes. 😔
+@TODO: Either re-watch this part or re-use other people’s notes. :disappointed:
 
 ## QA
 
