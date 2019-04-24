@@ -36,8 +36,8 @@ mobile / tweetdeck / analytics / ads / vine
 5. Ready-made, not tailor-made
 	* When faced with equally great stuff / tools, consistency is key
 6. Make skillful use of what is at hand
-7. Documentation & ownership over institutioal knowledge
-	* Shift away from concept of internal consusltant
+7. Documentation & ownership over institutional knowledge
+	* Shift away from concept of internal consultant
 	* Docbird
  
 > "If HP knew what HP knows, we would be 4 times more profitable" 
